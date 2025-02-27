@@ -1,1 +1,11 @@
 Smart Attendance System – A real-time facial recognition system using Tkinter, OpenCV, and MySQL for automated attendance tracking.
+![Image](https://github.com/user-attachments/assets/844fe2c9-a6a0-4f80-95b0-0e9fd11d98ff)
+![Image](https://github.com/user-attachments/assets/10422a3b-42db-4398-85f8-eb5056d8f696)
+![Image](https://github.com/user-attachments/assets/ed0d05b1-5388-46a4-a793-7309f1bc232c)
+![Image](https://github.com/user-attachments/assets/c66eabaf-f379-47ac-ae61-d25befbbd7cc)
+![Image](https://github.com/user-attachments/assets/7bedd12e-8dce-425a-8d5a-aff3dd7e4691)
+![Image](https://github.com/user-attachments/assets/7dbfcdcd-3c9c-461a-80d5-13a83c43b7b7)
+![Image](https://github.com/user-attachments/assets/04757750-fd59-40d6-a40c-e0522ef58a6b)
+![Image](https://github.com/user-attachments/assets/0ee01009-6c9f-4ead-be3d-aa54aa960fc5)
+![Image](https://github.com/user-attachments/assets/ed9471cc-fb12-42c6-be5f-e6e83ebbc4c5)
+![Image](https://github.com/user-attachments/assets/f7a1b346-aa47-413d-a589-cccf261b4f55)
